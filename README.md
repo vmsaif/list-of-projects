@@ -1,3 +1,57 @@
+# List of Projects and Skills
+
+## Skills and Technologies:
+
+### Programming Languages:
+- **Java**: Used in multiple projects such as the Coffee Shop System, Reversible Learning, Connect 4 game, and more.
+- **C++**: Utilized in OpenGL projects like Basic 3D Scene Creation, Sphere Lighting Program, and Recursive Ray Tracing.
+- **C**: Applied in projects like Maze Solver and Reading and Interpreting Binary Files (ELF).
+- **Python**: Used in the GBN Protocol Simulation.
+- **Prolog**: Employed in the Expert System and AI with Prolog projects.
+- **JavaScript**: Used in the Blockchain Car Mileage Tracker.
+- **SQLite**: Used in multiple projects. One of them is the Reversible Learning - Android.
+
+### Frameworks and Libraries:
+- **OpenGL**: Used in several graphics projects for 3D scene creation, sphere lighting, ray tracing, and more.
+- **JavaFX**: Used in the Blockchain Hashing project.
+- **Java Swing**: Used in the Alien Shipnator Game and Tower Defense Game.
+- **Processing IDE**: Used in the Processing Sketch on a Website project.
+- **Vue.js**: Used in the Blockchain Car Mileage Tracker.
+- **matplotlib**: Used in the GBN Protocol Simulation.
+- **HSQLDB**: Used in the Reversible Learning project.
+- **glut.h**: Used in the Basic 3D Scene Creation project.
+
+### Algorithms and Data Structures:
+- **Backtracking**: Used in the Maze Solver project.
+- **Minimax Algorithm and Alpha-Beta Pruning**: Applied in the Connect 4 game.
+- **Q Learning**: Used in the Tower Defense Game.
+- **A* Algorithm**: Applied in the Ant Path Finding project.
+- **Depth-First and Breadth-First Search**: Used in the Expert System in Prolog.
+- **Recursive Ray Tracing**: Applied in the Recursive Ray Tracing Program in OpenGL.
+
+### Tools and Platforms:
+- **Android Studio**: Used in the Reversible Learning project.
+- **GitHub Pages**: Used in the Processing Sketch on a Website project.
+- **VSCode**: Used in the Blockchain Hashing project.
+- **Docker**: Used in the Blockchain Car Mileage Tracker project.
+- **Git**: Used in all projects.
+- **Unix Based OS**: Used in multiple projects.
+
+### Concepts:
+- **Blockchain**: Explored in the Blockchain Hashing and Blockchain Car Mileage Tracker projects.
+- **Sockets**: Used in the TCP Chat Application.
+- **File I/O**: Used in projects like Coffee Shop System and Bank Account System.
+- **Networking**: Applied in the TCP Chat Application.
+- **Multithreading**: Used in the TCP Chat Application.
+- **Graphics**: Explored in multiple OpenGL projects.
+- **Game Development**: Applied in projects like Connect 4, Tower Defense Game, and Alien Shipnator Game.
+
+### Miscellaneous:
+- **Database Integration**: Used in the Reversible Learning project with HSQLDB.
+- **ELF Format**: Explored in the Reading and Interpreting Binary Files (ELF) project.
+- **UI Design**: Applied in the Reversible Learning project.
+
+
 ## Projects:
 
 ### <a href="https://github.com/vmsaif/blockChainCarMilageTracker/">Blockchain Car Mileage Tracker</a>
