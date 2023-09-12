@@ -30,6 +30,7 @@
 - **Recursive Ray Tracing**: Applied in the Recursive Ray Tracing Program in OpenGL.
 
 ### Tools and Platforms:
+- **CD/CI**: Proficient in Continuous Deployment and Continuous Integration, having hands-on experience with tools like GitHub Actions.
 - **Android Studio**: Used in the Reversible Learning project.
 - **GitHub Pages**: Used in the Processing Sketch on a Website project.
 - **VSCode**: Used in the Blockchain Hashing project.
