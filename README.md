@@ -55,6 +55,18 @@
 
 ## Projects:
 
+### <a href="https://github.com/vmsaif/ant-path-finding-using-A-Star-algorithm/">Ant Path Finding using A* Algorithm</a>
+Dive into a world where you're not just a player, but a creator. The game allows users to design mazes that an AI-controlled ant must navigate through using the A* algorithm. Players can set starting and ending points, place obstacles and terrain types, and watch the AI solve the maze.
+
+- **Technologies:** Java, A* Algorithm, Manhattan Distance Heuristic Function, CI/CD, GitHub Actions.
+- **Platforms Supported:** Windows (64-bit), macOS (64-bit), Linux (64-bit), JAR File.
+- **Learnings:** 
+  - A* algorithm implementation.
+  - Heuristic function implementation.
+  - Maze generation and solving.
+  - CI/CD integration with GitHub Actions.
+  - Java Swing graphics.
+  
 ### <a href="https://github.com/vmsaif/blockChainCarMilageTracker/">Blockchain Car Mileage Tracker</a>
 JavaScript solution using blockchain to combat odometer fraud in used cars.
 - **Technologies**: JavaScript, Blockchain, Vue.js.
