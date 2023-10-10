@@ -85,7 +85,7 @@ Java application that employs a MerkleTree to provide blockchain functionalities
 - **Technologies**: Java, JavaFX, VSCode.
 - **Learnings**: Insights into blockchain technology, understanding of Merkle Trees.
 
-### <a href="https://github.com/vmsaif/expertSystemInProlog/">Expert System in Prolog: Farmer, Wolf, Goat, and Cabbage Problem</a>
+### <a href="https://github.com/vmsaif/expert-system-in-prolog/">Expert System in Prolog: Farmer, Wolf, Goat, and Cabbage Problem</a>
 A Prolog-based expert system to solve the classic river crossing puzzle where a farmer must transport a wolf, goat, and cabbage across a river without leaving any incompatible pair unattended.
 - **Technologies**: Prolog, Depth-First Search.
 - **Features**: User interaction, dynamic problem-solving, multiple solution paths, and detailed explanations.
@@ -133,7 +133,7 @@ C project controlling parallel worker threads through processes and threads.
 - **Technologies**: C, Processes, Threads.
 - **Learnings**: Process creation, inter-process communication, and thread management.
 
-### <a href="https://github.com/vmsaif/readingBinaryFilesELF/">Reading and Interpreting Binary Files (ELF)</a>
+### <a href="https://github.com/vmsaif/readingAndInterpretingBinary/">Reading and Interpreting Binary Files (ELF)</a>
 C utility to interpret ELF formatted binaries, extracting key program details.
 - **Technologies**: C, ELF Format.
 - **Features**: ELF header analysis, program and section headers breakdown.
