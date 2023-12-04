@@ -1,11 +1,11 @@
-# List of Projects and Skills
+# List of Projects and Skills - Saif Mahmud
 
 ## Skills and Technologies:
 
 ### Programming Languages:
 - **Java**: Used in multiple projects such as the Coffee Shop System, Reversible Learning, Connect 4 game, and more.
 - **C++**: Utilized in OpenGL projects like Basic 3D Scene Creation, Sphere Lighting Program, and Recursive Ray Tracing.
-- **C**: Applied in projects like Maze Solver and Reading and Interpreting Binary Files (ELF).
+- **C**: Applied in projects like CPU Scheduling Simulator, Maze Solver and Reading and Interpreting Binary Files (ELF).
 - **Python**: Used in the GBN Protocol Simulation.
 - **Prolog**: Employed in the Expert System and AI with Prolog projects.
 - **JavaScript**: Used in the Blockchain Car Mileage Tracker.
@@ -41,7 +41,7 @@
 ### Concepts:
 - **Blockchain**: Explored in the Blockchain Hashing and Blockchain Car Mileage Tracker projects.
 - **Sockets**: Used in the TCP Chat Application.
-- **File I/O**: Used in projects like Coffee Shop System and Bank Account System.
+- **File I/O**: Used in projects like the Coffee Shop System and Bank Account System.
 - **Networking**: Applied in the TCP Chat Application.
 - **Multithreading**: Used in the TCP Chat Application.
 - **Graphics**: Explored in multiple OpenGL projects.
@@ -77,6 +77,16 @@ Java game of Connect 4 where players compete against an AI opponent.
 - **Technologies**: Java, Minimax Algorithm, Alpha-Beta Pruning.
 - **Learnings**: Game AI development, Minimax algorithm, and Alpha-Beta pruning optimization.
 
+### [CPU Scheduling Simulator](https://github.com/vmsaif/cpu_scheduling_simulator)
+This project simulates a Multi-Level Feedback Queue (MLFQ) scheduling policy on a multi-CPU system. Designed to emulate the behavior of scheduling tasks on multiple CPUs using threads, where each CPU is represented by a thread, the program compares the performance of different scheduling policies using this simulation.
+
+- **Technologies**: C, Multithreading, MLFQ Scheduling Algorithm.
+- **Learnings**: 
+  - Implementation and comparison of various CPU scheduling algorithms.
+  - Multi-threading in C for simulating a multi-CPU environment.
+  - Performance analysis of scheduling policies in terms of task turnaround and response times.
+  - Understanding complex concepts of CPU scheduling in operating systems.
+
 ### <a href="https://github.com/vmsaif/q-learning-in-ai-and-game-development/">Tower Defense Game: Q Learning Algorithm in AI and Game Development</a>
 Java game where players defend against enemy formations using Q Learning.
 - **Technologies**: Java, Swing, Q Learning.
@@ -93,7 +103,7 @@ An app designed to help users organize class notes and archive questions, enhanc
 - **Learnings**: Mobile app development, database integration, and UI design.
 
 ### <a href="https://github.com/vmsaif/block_chain_hashing">Blockchain Hashing</a>
-Java application that employs a MerkleTree to provide blockchain functionalities.
+Java application that employs MerkleTree to provide blockchain functionalities.
 - **Technologies**: Java, JavaFX, VSCode.
 - **Learnings**: Insights into blockchain technology, understanding of Merkle Trees.
 
@@ -105,7 +115,7 @@ A Prolog-based expert system to solve the classic river crossing puzzle where a 
 ### <a href="https://github.com/vmsaif/ai-with-prolog/">AI with Prolog: Collection of Prolog Programs</a>
 A diverse set of Prolog programs showcasing various AI and logic-based solutions, authored by Saif Mahmud.
 - **Technologies**: Prolog, Depth-First Search, Breadth-First Search.
-- **Features**: Puzzle solvers, path finders, syllable dividers, and more.
+- **Features**: Puzzle solvers, pathfinders, syllable dividers, and more.
 
 ### <a href="https://github.com/vmsaif/openGL-sphere-lighting-program/">OpenGL Sphere Lighting Program</a>
 A C++ project designed to illuminate a sphere using OpenGL's advanced lighting techniques.
@@ -120,7 +130,7 @@ A C++ project designed to illuminate a sphere using OpenGL's advanced lighting t
   - Use of the `glutSolidSphere` command for sphere rendering and lighting demonstration.
 
 ### <a href="https://github.com/vmsaif/recursive-ray-tracing-program-in-openGL/">Recursive Ray Tracing Program in OpenGL</a>
-A C++ program developed to simulate ray tracing using a recursive algorithm in OpenGL.
+A C++ program was developed to simulate ray tracing using a recursive algorithm in OpenGL.
 - **Technologies**: C++, OpenGL.
 - **Learnings**: 
   - Deep understanding of the recursive ray tracing algorithm.
@@ -128,7 +138,7 @@ A C++ program developed to simulate ray tracing using a recursive algorithm in O
   - Handling interactions with different surface types (wall or floor).
   - Recursive invocation techniques for reflection rays.
   - Color calculation and mixing based on ray interactions.
-  - Implementing tests to check visibility of light sources and applying shadow effects.
+  - Implementing tests to check the visibility of light sources and applying shadow effects.
 
 ### <a href="https://github.com/vmsaif/coffeeShopSystem">Coffee Shop System</a>
 A Java-based system simulating a coffee shop's operations, including order handling and ingredient management.
@@ -171,7 +181,7 @@ Java tool that identifies spelling errors in a text file by comparing it against
 - **Learnings**: File selection techniques, efficient data storage, and error detection.
 
 ### <a href="https://github.com/vmsaif/bankAccountSystem/">Bank Account System</a>
-Java program simulating bank operations by processing instructions from a text file.
+Java program simulates bank operations by processing instructions from a text file.
 - **Technologies**: Java, File I/O.
 - **Learnings**: Reading and processing file commands, and understanding bank operations.
 
@@ -181,7 +191,7 @@ Python-based simulation of the Go-Back-N (GBN) protocol with two distinct versio
 - **Learnings**: Deep understanding of the GBN protocol and simulating packet loss.
 
 ### <a href="https://github.com/vmsaif/hosting_processing_sketch_on_github_pages_website">Processing Sketch on a Website</a>
-Project focused on hosting a Processing sketch on GitHub Pages, allowing users to view sketches on the web.
+Project focused on hosting a Processing Sketch on GitHub Pages, allowing users to view sketches on the web.
 - **Technologies**: Processing IDE, GitHub Pages.
 - **Learnings**: Techniques for web hosting, understanding GitHub Pages intricacies.
 
@@ -189,6 +199,5 @@ Project focused on hosting a Processing sketch on GitHub Pages, allowing users t
 A C++ program that leverages OpenGL to render eight houses with triangular roofs and floors. 
 - **Technologies**: C++, OpenGL.
 - **Features**: 
-  - Utilizes translation, scaling, and rotation transformations to depict the houses.
-  - Houses constructed using shapes and efficient rendering via display lists.
+  - Utilizes translation, scaling, and rotation transformations to depict the houses. Houses are constructed using shapes and efficient rendering via display lists.
   - Incorporation of a background texture sourced from a BMP format image.
