@@ -1,4 +1,5 @@
-# List of Projects and Skills - Saif Mahmud
+# List of Projects and Skills
+Name - Saif Mahmud
 
 ## Skills and Technologies:
 
@@ -201,3 +202,39 @@ A C++ program that leverages OpenGL to render eight houses with triangular roofs
 - **Features**: 
   - Utilizes translation, scaling, and rotation transformations to depict the houses. Houses are constructed using shapes and efficient rendering via display lists.
   - Incorporation of a background texture sourced from a BMP format image.
+
+## Documentation:
+
+### [Manitoba Transit API Documentation Mockup](https://github.com/vmsaif/Manitoba-Transit-API-Documentation-Mockup)
+Comprehensive API documentation for the Manitoba Transit system, detailing transit options throughout Manitoba. Ideal for integration into local transit apps, tourism platforms, and map enhancements.
+
+- **Technologies**: RESTful API, JSON.
+- **Learnings**: 
+  - API design and documentation.
+  - Handling JSON formatted responses.
+- **Features**:
+  - Endpoints for route retrieval with customizable parameters.
+  - Responses include details like mode, city, duration, frequency, and stops.
+
+### [Processing Sketch on a Website](https://github.com/vmsaif/hosting_processing_sketch_on_github_pages_website/)
+A step-by-step guide for hosting a Processing sketch on a website using GitHub Pages, tailored for beginners in Git, GitHub, and programming.
+
+- **Technologies**: Processing IDE, GitHub Pages, HTML.
+- **Learnings**:
+  - Setting up and managing a GitHub repository.
+  - Converting Processing sketches to HTML for web hosting.
+- **Features**:
+  - Detailed instructions for account setup, repository creation, and sketch hosting.
+  - Emphasis on beginner-friendly methods and explanations.
+
+### [Hosting a Resume on GitHub Pages](https://github.com/vmsaif/hosting-resume-on-github-pages)
+A detailed guide on how to host and format a resume on GitHub Pages using Markdown and Jekyll, covering the process from GitHub account creation to online deployment.
+
+- **Technologies**: Markdown, Jekyll, Git.
+- **Learnings**:
+  - Markdown formatting for resume creation.
+  - Using Jekyll for static site generation and theme customization.
+- **Features**:
+  - Steps for repository setup, file uploading, and site configuration.
+  - Guidance on using GitHub Pages for an accessible online resume.
+
