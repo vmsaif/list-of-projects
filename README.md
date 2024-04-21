@@ -7,12 +7,13 @@ Name - Saif Mahmud
 - **Java**: Used in multiple projects such as the Coffee Shop System, Reversible Learning, Connect 4 game, and more.
 - **C++**: Utilized in OpenGL projects like Basic 3D Scene Creation, Sphere Lighting Program, and Recursive Ray Tracing.
 - **C**: Applied in projects like CPU Scheduling Simulator, Maze Solver and Reading and Interpreting Binary Files (ELF).
-- **Python**: Used in the GBN Protocol Simulation.
+- **Python**: Used in the ATS Pass AI and GBN Protocol Simulation.
 - **Prolog**: Employed in the Expert System and AI with Prolog projects.
 - **JavaScript**: Used in the Blockchain Car Mileage Tracker.
 - **SQLite**: Used in multiple projects. One of them is the Reversible Learning - Android.
 
 ### Frameworks and Libraries:
+- **CrewAI**: Utilized in the ATS Pass AI for optimizing resume keywords and formatting to enhance ATS compatibility.
 - **OpenGL**: Used in several graphics projects for 3D scene creation, sphere lighting, ray tracing, and more.
 - **JavaFX**: Used in the Blockchain Hashing project.
 - **Java Swing**: Used in the Alien Shipnator Game and Tower Defense Game.
@@ -40,6 +41,7 @@ Name - Saif Mahmud
 - **Unix Based OS**: Used in multiple projects.
 
 ### Concepts:
+- **Artificial Intelligence**: Leveraged CrewAI in the ATS Pass AI project for optimizing resume content and format to enhance ATS compatibility.
 - **Blockchain**: Explored in the Blockchain Hashing and Blockchain Car Mileage Tracker projects.
 - **Sockets**: Used in the TCP Chat Application.
 - **File I/O**: Used in projects like the Coffee Shop System and Bank Account System.
@@ -55,6 +57,21 @@ Name - Saif Mahmud
 
 
 ## Projects:
+
+### <a href="https://github.com/vmsaif/ats-pass-ai">ATS Pass AI</a>
+An innovative tool designed to automate the creation of personalized resumes tailored to specific job descriptions, enhancing job seekers' chances of passing through Applicant Tracking Systems (ATS). It achieves this by ensuring at least an 85% keyword match with job descriptions. The system extracts user data, analyzes job descriptions for key keywords and requirements, and integrates this information to create tailored resumes, available in LaTeX or plain text format.
+
+- **Technologies**: Python, LaTeX, Google Cloud APIs.
+- **Learnings**:
+  - Automation of resume customization to enhance ATS compatibility.
+  - Advanced text analysis for keyword optimization.
+  - Dynamic LaTeX document generation for professional resume formatting.
+- **Features**:
+  - User Information Collection: Extracts and organizes user data.
+  - Job Description Analysis: Identifies essential keywords and requirements.
+  - Resume Creation: Merges user information with job analysis to craft resumes.
+  - LaTeX Resume Generation: Outputs professionally formatted documents.
+
 
 ### <a href="https://github.com/vmsaif/ant-path-finding-using-A-Star-algorithm/">Ant Path Finding using A* Algorithm</a>
 Dive into a world where you're not just a player, but a creator. The game allows users to design mazes that an AI-controlled ant must navigate through using the A* algorithm. Players can set starting and ending points, place obstacles and terrain types, and watch the AI solve the maze.
