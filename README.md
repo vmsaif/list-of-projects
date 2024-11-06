@@ -4,6 +4,7 @@ Name - Saif Mahmud
 ## Skills and Technologies:
 
 ### Programming Languages:
+- **Python**:Used in multiple projects including the GBN Protocol Simulation, Gigachad Salesman for AI-driven audio analysis and performance tracking, and Idea Miners RAG System for document interrogation and AI interactions.
 - **Java**: Used in multiple projects such as the Coffee Shop System, Reversible Learning, Connect 4 game, and more.
 - **C++**: Utilized in OpenGL projects like Basic 3D Scene Creation, Sphere Lighting Program, and Recursive Ray Tracing.
 - **C**: Applied in projects like CPU Scheduling Simulator, Maze Solver and Reading and Interpreting Binary Files (ELF).
@@ -13,6 +14,8 @@ Name - Saif Mahmud
 - **SQLite**: Used in multiple projects. One of them is the Reversible Learning - Android.
 
 ### Frameworks and Libraries:
+- **Streamlit**: Used in the Gigachad Salesman and Idea Miners RAG System projects.
+- **Pandoc**: Employed in Gigachad Salesman for generating performance reports in PDF format.
 - **OpenGL**: Used in several graphics projects for 3D scene creation, sphere lighting, ray tracing, and more.
 - **JavaFX**: Used in the Blockchain Hashing project.
 - **Java Swing**: Used in the Alien Shipnator Game and Tower Defense Game.
@@ -35,11 +38,12 @@ Name - Saif Mahmud
 - **Android Studio**: Used in the Reversible Learning project.
 - **GitHub Pages**: Used in the Processing Sketch on a Website project.
 - **VSCode**: Used in the Blockchain Hashing project.
-- **Docker**: Used in the Blockchain Car Mileage Tracker project.
+- **Docker**: Used in the Idea Miners RAG System, Blockchain Car Mileage Tracker project, and more.
 - **Git**: Used in all projects.
 - **Unix Based OS**: Used in multiple projects.
 
 ### Concepts:
+- **Generative AI**: Explored in the Idea Miners RAG System project.
 - **Blockchain**: Explored in the Blockchain Hashing and Blockchain Car Mileage Tracker projects.
 - **Sockets**: Used in the TCP Chat Application.
 - **File I/O**: Used in projects like the Coffee Shop System and Bank Account System.
@@ -49,12 +53,38 @@ Name - Saif Mahmud
 - **Game Development**: Applied in projects like Connect 4, Tower Defense Game, and Alien Shipnator Game.
 
 ### Miscellaneous:
-- **Database Integration**: Used in the Reversible Learning project with HSQLDB.
+- **Database Integration**: 
+  - PostgreSQL - Used in the Gigachad Salesman project.
+  - Used in the Reversible Learning project with HSQLDB.
 - **ELF Format**: Explored in the Reading and Interpreting Binary Files (ELF) project.
 - **UI Design**: Applied in the Reversible Learning project.
 
 
 ## Projects:
+
+### [Gigachad Salesman](https://github.com/arbor-ai-studio/gigachad-salesman)
+Gigachad Salesman is an advanced sales coaching tool that leverages AI-driven audio analysis to enhance the performance of sales teams. It provides a comprehensive set of features for managing sales calls, tracking employee performance, and generating actionable insights through detailed analytics.
+
+- **Technologies:** Python, Streamlit, Google OAuth2, PostgreSQL, Pandoc.
+- **Features Supported:** Audio file management, performance metrics calculation, employee management, secure user authentication, dynamic reporting.
+- **Learnings:** 
+  - Integration of advanced audio processing for call analysis.
+  - Implementation of Google OAuth2 for secure login functionalities.
+  - Use of PostgreSQL for robust database management.
+  - Automatic generation of performance reports with Pandoc.
+  - Development of a responsive web application using Streamlit.
+
+### [Idea Miners RAG System](https://github.com/Idea-Miners/idea-miners-rag-system)
+A sophisticated Retrieval Augmented Generation (RAG) system that enhances document interaction through an AI assistant, enabling conversational access to document contents. Users can upload documents in various formats, engage in contextual searches, and converse with the AI to explore document details.
+
+- **Technologies:** Python, Docker, Elasticsearch, Streamlit, RAG Model, API Integration.
+- **Features Supported:** Document upload via multiple methods, contextual conversational search, chat history.
+- **Learnings:** 
+  - Implementation of the RAG model for document interrogation.
+  - Integration of Elasticsearch for efficient document retrieval.
+  - Building a responsive UI with Streamlit.
+  - API management and security considerations.
+  - Containerization with Docker for consistent deployment environments.
 
 ### <a href="https://github.com/vmsaif/ant-path-finding-using-A-Star-algorithm/">Ant Path Finding using A* Algorithm</a>
 Dive into a world where you're not just a player, but a creator. The game allows users to design mazes that an AI-controlled ant must navigate through using the A* algorithm. Players can set starting and ending points, place obstacles and terrain types, and watch the AI solve the maze.
