@@ -64,21 +64,6 @@ Name - Saif Mahmud
 
 ## Projects:
 
-### <a href="https://github.com/vmsaif/ats-pass-ai">ATS Pass AI</a>
-An innovative tool designed to automate the creation of personalized resumes tailored to specific job descriptions, enhancing job seekers' chances of passing through Applicant Tracking Systems (ATS). It achieves this by ensuring at least an 85% keyword match with job descriptions. The system extracts user data, analyzes job descriptions for key keywords and requirements, and integrates this information to create tailored resumes, available in LaTeX or plain text format.
-
-- **Technologies**: Python, LaTeX, Google Cloud APIs.
-- **Learnings**:
-  - Automation of resume customization to enhance ATS compatibility.
-  - Advanced text analysis for keyword optimization.
-  - Dynamic LaTeX document generation for professional resume formatting.
-- **Features**:
-  - User Information Collection: Extracts and organizes user data.
-  - Job Description Analysis: Identifies essential keywords and requirements.
-  - Resume Creation: Merges user information with job analysis to craft resumes.
-  - LaTeX Resume Generation: Outputs professionally formatted documents.
-
-
 ### [Gigachad Salesman](https://github.com/arbor-ai-studio/gigachad-salesman)
 Gigachad Salesman is an advanced sales coaching tool that leverages AI-driven audio analysis to enhance the performance of sales teams. It provides a comprehensive set of features for managing sales calls, tracking employee performance, and generating actionable insights through detailed analytics.
 
@@ -102,6 +87,20 @@ A sophisticated Retrieval Augmented Generation (RAG) system that enhances docume
   - Building a responsive UI with Streamlit.
   - API management and security considerations.
   - Containerization with Docker for consistent deployment environments.
+
+### <a href="https://github.com/vmsaif/ats-pass-ai">ATS Pass AI</a>
+An innovative tool designed to automate the creation of personalized resumes tailored to specific job descriptions, enhancing job seekers' chances of passing through Applicant Tracking Systems (ATS). It achieves this by ensuring at least an 85% keyword match with job descriptions. The system extracts user data, analyzes job descriptions for key keywords and requirements, and integrates this information to create tailored resumes, available in LaTeX or plain text format.
+
+- **Technologies**: Python, LaTeX, Google Cloud APIs.
+- **Learnings**:
+  - Automation of resume customization to enhance ATS compatibility.
+  - Advanced text analysis for keyword optimization.
+  - Dynamic LaTeX document generation for professional resume formatting.
+- **Features**:
+  - User Information Collection: Extracts and organizes user data.
+  - Job Description Analysis: Identifies essential keywords and requirements.
+  - Resume Creation: Merges user information with job analysis to craft resumes.
+  - LaTeX Resume Generation: Outputs professionally formatted documents.
 
 ### <a href="https://github.com/vmsaif/ant-path-finding-using-A-Star-algorithm/">Ant Path Finding using A* Algorithm</a>
 Dive into a world where you're not just a player, but a creator. The game allows users to design mazes that an AI-controlled ant must navigate through using the A* algorithm. Players can set starting and ending points, place obstacles and terrain types, and watch the AI solve the maze.
