@@ -8,12 +8,13 @@ Name - Saif Mahmud
 - **Java**: Used in multiple projects such as the Coffee Shop System, Reversible Learning, Connect 4 game, and more.
 - **C++**: Utilized in OpenGL projects like Basic 3D Scene Creation, Sphere Lighting Program, and Recursive Ray Tracing.
 - **C**: Applied in projects like CPU Scheduling Simulator, Maze Solver and Reading and Interpreting Binary Files (ELF).
-- **Python**: Used in the GBN Protocol Simulation.
+- **Python**: Used in the ATS Pass AI and GBN Protocol Simulation.
 - **Prolog**: Employed in the Expert System and AI with Prolog projects.
 - **JavaScript**: Used in the Blockchain Car Mileage Tracker.
 - **SQLite**: Used in multiple projects. One of them is the Reversible Learning - Android.
 
 ### Frameworks and Libraries:
+- **CrewAI**: Utilized in the ATS Pass AI for optimizing resume keywords and formatting to enhance ATS compatibility.
 - **Streamlit**: Used in the Gigachad Salesman and Idea Miners RAG System projects.
 - **Pandoc**: Employed in Gigachad Salesman for generating performance reports in PDF format.
 - **OpenGL**: Used in several graphics projects for 3D scene creation, sphere lighting, ray tracing, and more.
@@ -43,6 +44,7 @@ Name - Saif Mahmud
 - **Unix Based OS**: Used in multiple projects.
 
 ### Concepts:
+- **Artificial Intelligence**: Leveraged CrewAI in the ATS Pass AI project for optimizing resume content and format to enhance ATS compatibility.
 - **Generative AI**: Explored in the Idea Miners RAG System project.
 - **Blockchain**: Explored in the Blockchain Hashing and Blockchain Car Mileage Tracker projects.
 - **Sockets**: Used in the TCP Chat Application.
@@ -61,6 +63,21 @@ Name - Saif Mahmud
 
 
 ## Projects:
+
+### <a href="https://github.com/vmsaif/ats-pass-ai">ATS Pass AI</a>
+An innovative tool designed to automate the creation of personalized resumes tailored to specific job descriptions, enhancing job seekers' chances of passing through Applicant Tracking Systems (ATS). It achieves this by ensuring at least an 85% keyword match with job descriptions. The system extracts user data, analyzes job descriptions for key keywords and requirements, and integrates this information to create tailored resumes, available in LaTeX or plain text format.
+
+- **Technologies**: Python, LaTeX, Google Cloud APIs.
+- **Learnings**:
+  - Automation of resume customization to enhance ATS compatibility.
+  - Advanced text analysis for keyword optimization.
+  - Dynamic LaTeX document generation for professional resume formatting.
+- **Features**:
+  - User Information Collection: Extracts and organizes user data.
+  - Job Description Analysis: Identifies essential keywords and requirements.
+  - Resume Creation: Merges user information with job analysis to craft resumes.
+  - LaTeX Resume Generation: Outputs professionally formatted documents.
+
 
 ### [Gigachad Salesman](https://github.com/arbor-ai-studio/gigachad-salesman)
 Gigachad Salesman is an advanced sales coaching tool that leverages AI-driven audio analysis to enhance the performance of sales teams. It provides a comprehensive set of features for managing sales calls, tracking employee performance, and generating actionable insights through detailed analytics.
